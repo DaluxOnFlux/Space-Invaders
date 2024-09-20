@@ -6,3 +6,5 @@ Skeleton for the [Space invaders project](https://perso.esiee.fr/~perretb/I3FM/P
 
 - Visual Studio 2017+
 - .net 4+
+
+  PROJET E3 ESIEE PARIS fait en groupe, avec Alassane TRAORE
